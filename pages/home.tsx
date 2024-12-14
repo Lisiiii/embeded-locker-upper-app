@@ -128,7 +128,7 @@ function ContactInfo() {
         <View style={styles.contactInfo}>
             <Text style={styles.contactText}>· 嵌入式大作业-智能门锁控制app</Text>
             <Text style={styles.contactText}>
-                · 小组成员 <Text style={styles.phoneNumber}>李思尧 、李永帅 、李泽桐</Text>
+                · 小组成员 <Text style={styles.phoneNumber}>张三·李四·王五</Text>
             </Text>
             <Text style={styles.contactText}>· 软件源代码: <Text style={{ ...styles.contactText, fontSize: 10 }}>https://github.com/lisiiii/SmartLocker-APP</Text></Text>
         </View>
